@@ -7,3 +7,5 @@
 
 测试图片
 ![](http://www.baidu.com/img/bdlogo.gif)  
+
+![](http://chuantu.xyz/t6/710/1578302142x989559068.jpg)  

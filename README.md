@@ -6,14 +6,6 @@
 
 **掌嗨群：81652754 （需下载软件：掌嗨）**
 
-本网页持续更新多个版本，稍后刷新
-
-马上删，长按图片保存
-![](/wa.png)
-![](/zz123.jpg)
-![](/qq.jpg)
-![](/qq2.jpg)
-![](/1.jpg)
 
 ## 关于如何下载掌嗨
 https://github.com/huikao/sc/blob/master/help.md
